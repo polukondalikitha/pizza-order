@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 800px;
+    margin: auto auto;
+    
+}
+span{color: red
+
+}
+img{
+    width:150px;
+    /* height: 50%; */
+}
+article{
+    display: flex;
+    gap: 20px;
+}
+form{
+    display: flex;
+    gap: 20px;
+}
+aside{
+    display: flex;
+    gap: 20px;
+}

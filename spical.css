@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 800px;
+    margin: auto auto;
+}
+img{
+    width: 250px;
+}
+.hello{
+  width: 20px;  
+}
+.trio{
+    font-size: 15px;
+    color: red;
+}
+h4{
+    color: red;
+}
+.helloo{
+    width: 270px;
+}
+.hi{
+    width: 200px;
+}
+.hii{
+    width: 250px;
+}
+.hiii{
+    width: 200px;
+}
